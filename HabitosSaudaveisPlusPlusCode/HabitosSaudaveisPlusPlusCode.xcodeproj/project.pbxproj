@@ -11,6 +11,7 @@
 		8FCD42302BF4EB4600ECC86D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCD422F2BF4EB4600ECC86D /* ContentView.swift */; };
 		8FCD42322BF4EB4700ECC86D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8FCD42312BF4EB4700ECC86D /* Assets.xcassets */; };
 		8FCD42352BF4EB4700ECC86D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8FCD42342BF4EB4700ECC86D /* Preview Assets.xcassets */; };
+		8FCD423C2BF6374400ECC86D /* AreaDaSaude.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCD423B2BF6374400ECC86D /* AreaDaSaude.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		8FCD422F2BF4EB4600ECC86D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8FCD42312BF4EB4700ECC86D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8FCD42342BF4EB4700ECC86D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8FCD423B2BF6374400ECC86D /* AreaDaSaude.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AreaDaSaude.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +37,7 @@
 		8FCD42212BF4EB4600ECC86D = {
 			isa = PBXGroup;
 			children = (
+				8FCD423B2BF6374400ECC86D /* AreaDaSaude.swift */,
 				8FCD422C2BF4EB4600ECC86D /* HabitosSaudaveisPlusPlusCode */,
 				8FCD422B2BF4EB4600ECC86D /* Products */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8FCD423C2BF6374400ECC86D /* AreaDaSaude.swift in Sources */,
 				8FCD42302BF4EB4600ECC86D /* ContentView.swift in Sources */,
 				8FCD422E2BF4EB4600ECC86D /* HabitosSaudaveisPlusPlusCodeApp.swift in Sources */,
 			);
