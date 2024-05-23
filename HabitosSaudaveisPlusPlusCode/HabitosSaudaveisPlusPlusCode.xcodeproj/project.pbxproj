@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8F0071EA2BFCCC7900E92B54 /* EscovarDentes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F0071E92BFCCC7900E92B54 /* EscovarDentes.swift */; };
 		8FCD422E2BF4EB4600ECC86D /* HabitosSaudaveisPlusPlusCodeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCD422D2BF4EB4600ECC86D /* HabitosSaudaveisPlusPlusCodeApp.swift */; };
 		8FCD42302BF4EB4600ECC86D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCD422F2BF4EB4600ECC86D /* ContentView.swift */; };
 		8FCD42322BF4EB4700ECC86D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8FCD42312BF4EB4700ECC86D /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8F0071E92BFCCC7900E92B54 /* EscovarDentes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EscovarDentes.swift; sourceTree = "<group>"; };
 		8FCD422A2BF4EB4600ECC86D /* HabitosSaudaveisPlusPlusCode.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HabitosSaudaveisPlusPlusCode.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FCD422D2BF4EB4600ECC86D /* HabitosSaudaveisPlusPlusCodeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HabitosSaudaveisPlusPlusCodeApp.swift; sourceTree = "<group>"; };
 		8FCD422F2BF4EB4600ECC86D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -37,7 +39,6 @@
 		8FCD42212BF4EB4600ECC86D = {
 			isa = PBXGroup;
 			children = (
-				8FCD423B2BF6374400ECC86D /* AreaDaSaude.swift */,
 				8FCD422C2BF4EB4600ECC86D /* HabitosSaudaveisPlusPlusCode */,
 				8FCD422B2BF4EB4600ECC86D /* Products */,
 			);
@@ -54,10 +55,12 @@
 		8FCD422C2BF4EB4600ECC86D /* HabitosSaudaveisPlusPlusCode */ = {
 			isa = PBXGroup;
 			children = (
+				8FCD423B2BF6374400ECC86D /* AreaDaSaude.swift */,
 				8FCD422D2BF4EB4600ECC86D /* HabitosSaudaveisPlusPlusCodeApp.swift */,
 				8FCD422F2BF4EB4600ECC86D /* ContentView.swift */,
 				8FCD42312BF4EB4700ECC86D /* Assets.xcassets */,
 				8FCD42332BF4EB4700ECC86D /* Preview Content */,
+				8F0071E92BFCCC7900E92B54 /* EscovarDentes.swift */,
 			);
 			path = HabitosSaudaveisPlusPlusCode;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8F0071EA2BFCCC7900E92B54 /* EscovarDentes.swift in Sources */,
 				8FCD423C2BF6374400ECC86D /* AreaDaSaude.swift in Sources */,
 				8FCD42302BF4EB4600ECC86D /* ContentView.swift in Sources */,
 				8FCD422E2BF4EB4600ECC86D /* HabitosSaudaveisPlusPlusCodeApp.swift in Sources */,

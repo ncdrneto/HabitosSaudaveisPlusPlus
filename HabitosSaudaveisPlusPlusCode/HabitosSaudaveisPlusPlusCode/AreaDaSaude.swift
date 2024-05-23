@@ -7,11 +7,11 @@
 
 import Foundation
 
-enum AreaDaSaude: String, CaseIterable, Identifiable {
-    var id: Self { self }
-    
+enum AreaDaSaude: String, CaseIterable {
+
     case saudeBucal = "Saúde Bucal"
-    case saúdeDoCoracao = "Saúde do Coração"
+    case saudeDoCoracao = "Saúde do Coração"
     
-  
+    
+      
 }
